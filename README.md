@@ -103,6 +103,7 @@ Tools and services for managing distributed organizations.
 - [Rippling](https://www.rippling.com/) — Workforce management and HR platform.
 - [Culture Amp](https://www.cultureamp.com/) — Employee experience and engagement platform.
 - [Lattice](https://lattice.com/) — Performance management and people operations platform.
+- [Superhighway](https://superhighway.walls.sh/guides/hr-research-agent) — Build a Python agent that researches HR technology markets, HRIS platforms, compensation benchmarks, and workforce analytics using live web search. Pay-per-call with USDC via x402.
 
 ## Digital Nomad Resources
 
