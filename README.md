@@ -54,6 +54,7 @@ Tools that help distributed teams communicate effectively.
 
 Tools that help remote professionals stay productive.
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser freelance invoice, timesheet, and expense log tools (no signup).
 - [Todoist](https://todoist.com/) — Task management and personal productivity platform.
 - [Motion](https://www.usemotion.com/) — AI-powered scheduling and planning assistant.
 - [Clockify](https://clockify.me/) — Time tracking platform.
