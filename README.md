@@ -42,6 +42,7 @@ Platforms focused on remote and distributed work opportunities.
 ## Communication & Collaboration
 
 Tools that help distributed teams communicate effectively.
+- [AI Group Call](https://aigroupcall.app) - You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
 
 - [Slack](https://slack.com/) — Team messaging and collaboration platform.
 - [Microsoft Teams](https://www.microsoft.com/microsoft-teams) — Workplace communication and collaboration suite.
