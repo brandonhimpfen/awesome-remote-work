@@ -108,6 +108,7 @@ Tools and services for managing distributed organizations.
 
 Resources supporting location-independent work.
 
+- [China Travel Check](https://gochina.taoliapp.com/) — Verified English field manual for independent mainland China travel: payments, eSIM, visas, trains, and apps.
 - [Nomad List](https://nomadlist.com/) — Data and rankings for digital nomad destinations.
 - [SafetyWing](https://safetywing.com/) — Insurance and services for remote workers and nomads.
 - [Outsite](https://www.outsite.co/) — Coliving and coworking spaces worldwide.
